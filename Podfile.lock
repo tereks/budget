@@ -1,0 +1,46 @@
+PODS:
+  - AloeStackView (1.2.0)
+  - Dip (7.1.1)
+  - R.swift (5.4.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - Realm (10.12.0):
+    - Realm/Headers (= 10.12.0)
+  - Realm/Headers (10.12.0)
+  - RealmSwift (10.12.0):
+    - Realm (= 10.12.0)
+  - SwiftyBeaver (1.9.5)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - AloeStackView
+  - Dip
+  - R.swift
+  - RealmSwift
+  - SwiftyBeaver
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AloeStackView
+    - Dip
+    - R.swift
+    - R.swift.Library
+    - Realm
+    - RealmSwift
+    - SwiftyBeaver
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  AloeStackView: 8a4ce0efa08128dd78d538372f60c76c224034bb
+  Dip: 6bebb09d50f88633039ce2c9fe5bc56d387b492f
+  R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  Realm: 32488213acb44660539c619d620cec1bac046166
+  RealmSwift: 0abdca6231d5ff8a4f84cef9c1121ef95a483faf
+  SwiftyBeaver: 84069991dd5dca07d7069100985badaca7f0ce82
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 1e5b447b61df78e297d7c7200a5b305df3fbfc68
+
+COCOAPODS: 1.10.1

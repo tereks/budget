@@ -1,0 +1,11 @@
+/* 
+  Localized.strings
+  BudgetHolder
+
+  Created by Sergey Kim on 24.08.2021.
+  
+*/
+
+"total" = "Всего";
+"expences" = "Расходы";
+"income" = "Доходы";
