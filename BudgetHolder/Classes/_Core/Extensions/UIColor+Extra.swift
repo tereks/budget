@@ -23,6 +23,6 @@ public extension UIColor {
     }
 
     @nonobjc class var carrebeanGreen: UIColor {
-        return UIColor(rgb: 0x00C49A)
+        return UIColor(rgb: 0x00C490)
     }
 }
